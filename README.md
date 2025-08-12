@@ -80,8 +80,8 @@ tokenizer/
 
 ## Screenshots
 
-<img width="1913" height="915" alt="Screenshot 2025-08-12 183913" src="https://github.com/user-attachments/assets/129270ab-6322-464f-936f-26cb84cef77c" />
 <img width="1916" height="1026" alt="Screenshot 2025-08-12 183828" src="https://github.com/user-attachments/assets/7e2fc4ba-e174-45e7-aa67-35b2b3cb3960" />
+<img width="1913" height="915" alt="Screenshot 2025-08-12 183913" src="https://github.com/user-attachments/assets/129270ab-6322-464f-936f-26cb84cef77c" />
 
 
 
