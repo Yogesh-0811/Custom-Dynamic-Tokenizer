@@ -14,10 +14,6 @@ export default function App() {
     setTokens(result);
   };
 
-  const handleDetokenize = () => {
-    setText(detokenize(tokens));
-  };
-
   const handleManualDecode = () => {
     setDecodedText(detokenize(manualTokens));
   };
@@ -35,7 +31,6 @@ export default function App() {
 
         <div className="button-row">
           <button onClick={handleTokenize}>Tokenize</button>
-          <button onClick={handleDetokenize}>Detokenize</button>
           <button onClick={() => setShowMapping(true)}>View Mapping</button>
         </div>
 
